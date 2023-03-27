@@ -40,7 +40,7 @@ BMR is calculated using the following equations:
 **Macro Calculation**
 
 Macros per day are calculated using the following equations (with rounding to nearest 10): 
-- **Calories**: **BMR** + (1.2 + (0.1 * **number of workouts**)) + **goal**
+- **Calories**: **BMR** x (1.2 + (0.1 x **number of workouts**)) + **goal**
   - **Maintain Current Weight**: 0
   - **Gain Weight**: 500
   - **Lose Weight**: - 10% calculated calories
