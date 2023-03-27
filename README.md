@@ -33,28 +33,22 @@ Mitchelll Joram
   
 **BMR Calculation**
 BMR is calculated using the following equations:
-
-**M**: 88 + (**body weight (kg)** x 13) + (**height (cm)** x 5) - (**age** x 5.5)
-
-**F**: 450 + (**body weight (kg)** x 9) + (**height (cm)** x 3) - (**age** x 4)
+- **M**: 88 + (**body weight (kg)** x 13) + (**height (cm)** x 5) - (**age** x 5.5)
+- **F**: 450 + (**body weight (kg)** x 9) + (**height (cm)** x 3) - (**age** x 4)
 
 
 **Macro Calculation**
 
 Macros per day are calculated using the following equations (with rounding to nearest 10): 
-
-**Calories**: **BMR** + (1.2 + (0.1 * **number of workouts**)) + **goal**
+- **Calories**: **BMR** + (1.2 + (0.1 * **number of workouts**)) + **goal**
   - **Maintain Current Weight**: 0
   - **Gain Weight**: 500
   - **Lose Weight**: - 10% calculated calories
-
-**Protein**: 
+- **Protein**: 
   - **Maintain Current Weight** and **Gain Weight**: (**Calories** x 0.3) / 4
   - **Lose Weight**: (**Calories** x 0.35) / 4
-
-**Carbohydrates (Carbs)**: (**Calories** x 0.5) / 4
-
-**Fats**: 
+- **Carbohydrates (Carbs)**: (**Calories** x 0.5) / 4
+- **Fats**: 
   - **Maintain Current Weight** and **Gain Weight**: (**Calories** x 0.2) / 9
   - **Lose Weight**: (**Calories** x 0.15) / 9
   
