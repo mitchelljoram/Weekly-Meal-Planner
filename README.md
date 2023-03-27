@@ -13,7 +13,7 @@ Mitchelll Joram
 
 ---
 
-**DISCLAIMER**: All content presented is for informational and personal purposes only, and is not intened to approximate or replace professional medical advice, diagnosis, or treatment. This is a tool to help track calories and macros and is not to be taken literally as wanted effects are not guaranteed. Calulations are based on limited research. Always seek the advice of your personal physician or other qualified professionals regarding questions regarding your physical health and medical conditions.
+**DISCLAIMER**: All content presented is for informational and personal purposes only, and is not intened to approximate or replace professional medical advice, diagnosis, or treatment. This is a tool to help track calories and macros and is not to be taken literally as wanted effects are not guaranteed. Calulations are based on limited research. Always seek the advice of your personal physician or other qualified professionals with questions regarding your physical health and medical conditions.
 
 --- 
 
