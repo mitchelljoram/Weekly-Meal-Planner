@@ -19,7 +19,7 @@ Mitchelll Joram
 
 ## Week Meal Planner
 
-### BMR/Macro Calculator
+### BMR and Macro Calculator
 
 1. Enter your **body weight** in the first orange cell in pounds (lbs). If you do not know your weight in lbs, you may enter your weight in kilograms (kg) in the next cell below. The final calculation uses kg.
 2. Enter your **height** in the second orange cell in inches. If you do not know your height in inches, you may enter your height in centimeters (cm) in the next cell below. The final calculation uses cm.
