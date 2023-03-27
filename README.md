@@ -33,7 +33,9 @@ Mitchelll Joram
   
 **BMR Calculation**
 BMR is calculated using the following equations:
+
 **M**: 88 + (**body weight (kg)** x 13) + (**height (cm)** x 5) - (**age** x 5.5)
+
 **F**: 450 + (**body weight (kg)** x 9) + (**height (cm)** x 3) - (**age** x 4)
 
 **Macro Calculation**
