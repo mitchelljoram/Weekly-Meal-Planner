@@ -63,6 +63,7 @@ Each day in the meal planner contains 6 "meals" for a 3-4 meals per day plan wit
 Each meal contains 5 menu items. See [Menu](#menu) to see how to add menu items.
 1. Enter each menu item.
 2. Enter number of servings for each menu item.
+
 Calories, protein, carbs, and fats are calculated based on the menu item and servings entered.
 
 Day Stats are calulated based on entered menu items and servings enter accross all 6 meals.
