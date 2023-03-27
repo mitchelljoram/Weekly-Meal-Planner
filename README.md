@@ -38,7 +38,9 @@ BMR is calculated using the following equations:
 
 **F**: 450 + (**body weight (kg)** x 9) + (**height (cm)** x 3) - (**age** x 4)
 
+
 **Macro Calculation**
+
 Macros per day are calculated using the following equations (with rounding to nearest 10): 
 
 **Calories**: **BMR** + (1.2 + (0.1 * **number of workouts**)) + **goal**
@@ -58,6 +60,7 @@ Macros per day are calculated using the following equations (with rounding to ne
   
 Macros per week are calculated with the above results x 7.
 
+
 ### Meal Planner
 
 Each day in the meal planner contains 6 "meals" for a 3-4 meals per day plan with 2-3 optional snack portions.
@@ -68,8 +71,11 @@ Each meal contains 5 menu items. See [Menu](#menu) to see how to add menu items.
 
 Calories, protein, carbs, and fats are calculated based on the menu item and servings entered.
 
+
 Day Stats are calulated based on entered menu items and servings enter accross all 6 meals.
+
 Week Stats are calculated based on all day stats.
+
 Legend for Day/Week Stats:
   - **Green**: Good with > 80% calculated macro
   - **Yellow**: Neutral with > 50% calculated macro
@@ -86,7 +92,8 @@ Menu items are entered by the user. Menu items are searched through by the [Meal
   - **Protein**: Number of grams of protein in each serving size.
   - **Carbs**: Number of grams of carbohydrates in each serving size.
   - **Fat**: Number of grams of fat in each serving size.
-  
+
+
 Menu table allows 50 menu items. This can be expanded if the appropriate functions in the Meal Planner are updated to search the expanded table.
 i.e. for 100 menu items: Menu!$B$7:$I$56 → Menu!$B$7:$I$106
 
