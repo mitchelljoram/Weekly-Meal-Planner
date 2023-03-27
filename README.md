@@ -66,9 +66,7 @@ Each meal contains 5 menu items. See [Menu](#menu) to see how to add menu items.
 Calories, protein, carbs, and fats are calculated based on the menu item and servings entered.
 
 Day Stats are calulated based on entered menu items and servings enter accross all 6 meals.
-
 Week Stats are calculated based on all day stats.
-
 Legend for Day/Week Stats:
   - **Green**: Good with > 80% calculated macro
   - **Yellow**: Neutral with > 50% calculated macro
@@ -87,7 +85,6 @@ Menu items are entered by the user. Menu items are searched through by the [Meal
   - **Fat**: Number of grams of fat in each serving size.
   
 Menu table allows 50 menu items. This can be expanded if the appropriate functions in the Meal Planner are updated to search the expanded table.
-
 i.e. for 100 menu items: Menu!$B$7:$I$56 → Menu!$B$7:$I$106
 
 ---
