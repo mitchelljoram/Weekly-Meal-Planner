@@ -6,6 +6,7 @@ Mitchelll Joram
 ## Table of Contents
 
 - [Weekly Meal Planner](#weekly-meal-planner)
+  - [Description](#description)
   - [Week Meal Planner](#week-meal-planner)
     - [BMR and Macro Calculator](#bmr-and-macro-calculator)
     - [Meal Planner](#meal-planner) 
@@ -16,6 +17,16 @@ Mitchelll Joram
 **DISCLAIMER**: All content presented is for informational and personal purposes only, and is not intened to approximate or replace professional medical advice, diagnosis, or treatment. This is a tool to help track calories and macros and is not to be taken literally as wanted effects are not guaranteed. Calulations are based on limited research. Always seek the advice of your personal physician or other qualified professionals with questions regarding your physical health and medical conditions.
 
 --- 
+
+## Description
+
+This is a weekly meal planner to help keep track goal macros across meals through each day of the week. Using BMR, diet, and macro calculations to determine proper macros that fit a goal.
+
+This project takes form of an Excel Workbook that contains two pages: a Meal Planner, and a Menu.
+
+Tech Stack: Excel
+
+---
 
 ## Week Meal Planner
 
