@@ -20,7 +20,7 @@ Mitchelll Joram
 
 ## Description
 
-This is a weekly meal planner to help keep track goal macros across meals through each day of the week. Using BMR, diet, and macro calculations to determine proper macros that fit a goal.
+This is a weekly meal planner to help keep track goal macros across meals through each day of the week. Using BMR, diet, and macro calculations to determine proper macros that fit a weight goal.
 
 This project takes form of an Excel Workbook that contains two pages: a Meal Planner, and a Menu.
 
