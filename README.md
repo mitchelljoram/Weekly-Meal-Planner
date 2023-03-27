@@ -7,7 +7,7 @@ Mitchelll Joram
 
 - [Weekly Meal Planner](#weekly-meal-planner)
   - [Week Meal Planner](#week-meal-planner)
-    - [BMR/Macro Calculator](#bmr/macro-calculator)
+    - [BMR/Macro Calculator](#bmr-macro-calculator)
     - [Meal Planner](#meal-planner) 
   - [Menu](#menu)
 
