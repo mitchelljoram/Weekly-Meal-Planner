@@ -7,7 +7,7 @@ Mitchelll Joram
 
 - [Weekly Meal Planner](#weekly-meal-planner)
   - [Week Meal Planner](#week-meal-planner)
-    - [BMR/Macro Calculator](#bmr-macro-calculator)
+    - [BMR and Macro Calculator](#bmr-and-macro-calculator)
     - [Meal Planner](#meal-planner) 
   - [Menu](#menu)
 
@@ -81,4 +81,4 @@ Menu items are entered by the user. Menu items are searched through by the [Meal
   - **Fat**: Number of grams of fat in each serving size.
   
 Menu table allows 50 menu items. This can be expanded if the appropriate functions in the Meal Planner are updated to search the expanded table.
-i.e. for 100 menu items: Menu!$B$7:$I$56 --> Menu!$B$7:$I$106
+i.e. for 100 menu items: Menu!$B$7:$I$56 → Menu!$B$7:$I$106
