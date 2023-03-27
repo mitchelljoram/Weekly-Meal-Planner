@@ -27,9 +27,9 @@ Mitchelll Joram
 4. Enter your **gender (M/F)** in the fourth orange cell. Male and female BMR calulations are different.
 5. Enter your average **number of workouts** per week.
 6. Enter your **goal**. Your options include:
-  - **Maintain Current Weight**
-  - **Gain Weight**
-  - **Lose Weight**
+    - **Maintain Current Weight**
+    - **Gain Weight**
+    - **Lose Weight**
   
 **BMR Calculation**
 BMR is calculated using the following equations:
@@ -38,6 +38,7 @@ BMR is calculated using the following equations:
 
 **Macro Calculation**
 Macros per day are calculated using the following equations (with rounding to nearest 10): 
+
 **Calories**: **BMR** + (1.2 + (0.1 * **number of workouts**)) + **goal**
   - **Maintain Current Weight**: 0
   - **Gain Weight**: 500
@@ -65,7 +66,9 @@ Each meal contains 5 menu items. See [Menu](#menu) to see how to add menu items.
 Calories, protein, carbs, and fats are calculated based on the menu item and servings entered.
 
 Day Stats are calulated based on entered menu items and servings enter accross all 6 meals.
+
 Week Stats are calculated based on all day stats.
+
 Legend for Day/Week Stats:
   - **Green**: Good with > 80% calculated macro
   - **Yellow**: Neutral with > 50% calculated macro
@@ -84,4 +87,7 @@ Menu items are entered by the user. Menu items are searched through by the [Meal
   - **Fat**: Number of grams of fat in each serving size.
   
 Menu table allows 50 menu items. This can be expanded if the appropriate functions in the Meal Planner are updated to search the expanded table.
+
 i.e. for 100 menu items: Menu!$B$7:$I$56 → Menu!$B$7:$I$106
+
+---
