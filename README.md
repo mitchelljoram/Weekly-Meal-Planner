@@ -42,10 +42,13 @@ Macros per day are calculated using the following equations (with rounding to ne
   - **Maintain Current Weight**: 0
   - **Gain Weight**: 500
   - **Lose Weight**: - 10% calculated calories
+
 **Protein**: 
   - **Maintain Current Weight** and **Gain Weight**: (**Calories** x 0.3) / 4
   - **Lose Weight**: (**Calories** x 0.35) / 4
+
 **Carbohydrates (Carbs)**: (**Calories** x 0.5) / 4
+
 **Fats**: 
   - **Maintain Current Weight** and **Gain Weight**: (**Calories** x 0.2) / 9
   - **Lose Weight**: (**Calories** x 0.15) / 9
